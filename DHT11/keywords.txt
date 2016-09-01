@@ -1,0 +1,4 @@
+DHT11	KEYWORD1
+requestData	KEYWORD2
+getTemperature	KEYWORD2
+getHumidity	KEYWORD2
