@@ -14,7 +14,7 @@ byte code = DHT11.requestData();
 ```
 **Parameters**   
 **Returns**  
-```code  ```1:get response,2:no response,3:data no correct  
+```code  ```0:get response,1:no response,2:data no correct  
 
 >##DHT11.getTemperature()
 **Syntax**
